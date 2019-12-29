@@ -1,0 +1,6 @@
+# build social network out of the number of common friends you are in
+
+#Looping through all the chatrooms 
+#create a dictionary of friend, number of chatrooms
+#sort it 
+#and do a R like plot

@@ -1,0 +1,18 @@
+Dear Vernica:
+It is a real pleasure to travel with you and be friend with you.
+Thank you for all the beautiful photos and beautiful memories.
+Let us build many more memories together in the time to come!
+Wish you a very good birthday! 
+
+
+Here is my present for you.
+It is a python programme that shows your Wechat friend info.
+
+By gender
+By location
+And their e-signatures
+
+Please scan the QR code using Wechat when it pops up.
+And open the map.html to see friend distribution by location.
+Hope you enjoy it.
+HAHA
